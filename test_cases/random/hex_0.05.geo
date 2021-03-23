@@ -8,7 +8,7 @@
  * S Groth 06/06/14
  * 
  ***********************************************************************/
-e = 0.0006;   // mesh element size corresponds to 50GHz
+e = 6e-05;   // mesh element size corresponds to 100 elements per wavelength
 h = 96e-6;     // height (= 2 * aspect ratio)
 s = 0;     // shift in z-direction
 a = 48e-6;
